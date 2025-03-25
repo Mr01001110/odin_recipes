@@ -1,0 +1,27 @@
+body {
+    background-color: #A08963;
+}
+a {
+    color: rgb(31, 31, 31);    
+ }
+ h1 {
+    color: #DBDBDB;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;   
+    font-size: 50px;
+ }
+ img {
+    width: 600px;
+    height: auto;
+ }
+ h4 {
+    text-align: center;
+    color: #DBDBDB;
+    font-size: 30px;
+ }
+ p, li {
+    text-align: justify;
+    color: black;
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+ }

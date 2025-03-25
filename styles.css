@@ -1,0 +1,15 @@
+body {
+    background-color: #A08963;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #DBDBDB;
+}
+ul, li {
+    font-size: 25px;
+    text-align: justify;
+    font-family: 'Courier New', monospace;
+    color: #DBDBDB;
+}
