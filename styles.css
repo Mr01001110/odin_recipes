@@ -1,5 +1,7 @@
 body {
-    background-color: #A08963;
+    max-width: 600px;
+    background: #A08963;
+    margin: auto;
 }
 h1 {
     font-size: 50px;
@@ -12,4 +14,11 @@ ul, li {
     text-align: justify;
     font-family: 'Courier New', monospace;
     color: #DBDBDB;
+}
+.list-recipes {
+    border: 3px solid white;
+}
+li {
+    margin: 8px auto;
+    padding: 8px;
 }
